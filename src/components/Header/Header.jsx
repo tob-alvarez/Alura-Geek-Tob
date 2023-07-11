@@ -12,10 +12,7 @@ const Header = () => {
       <nav className="navbar bg-body-tertiary">
         <div className="container-fluid">
           <Link to="/home">
-            <img
-              src="../../src/assets/sports_esports_black_24dp 1.svg"
-              alt=""
-            />
+            <img src="public\images\sports_esports_black_24dp 1.svg" alt="" />
             <img src="../../src/assets/Texto.svg" alt="" />
           </Link>
           <input
