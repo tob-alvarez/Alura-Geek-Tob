@@ -12,8 +12,8 @@ const Header = () => {
       <nav className="navbar bg-body-tertiary">
         <div className="container-fluid">
           <Link to="/home">
-            <img src="public\images\sports_esports_black_24dp 1.svg" alt="" />
-            <img src="../../src/assets/Texto.svg" alt="" />
+            <img src="images/sports_esports_black_24dp 1.svg" alt="" />
+            <img src="images/Texto.svg" alt="" />
           </Link>
           <input
             className="col-xl-4 inputBuscador"
