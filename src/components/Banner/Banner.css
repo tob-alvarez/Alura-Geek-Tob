@@ -1,0 +1,26 @@
+.banner {
+    /* background-image: url("../../../src/assets/249ec3bb3cddfb099af8d5d3dac01246.jpg"); */
+    background-position-y: center;
+    background-position-x: center;
+    object-fit: cover;
+    height: 352px;
+}
+/* .infoBanner{
+    width: 1136px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    color: #fff;
+    font-size: large;
+}
+.botonBanner{
+    width: 200px;
+    padding: 16px;
+    color: #fff;
+    background-color: #2a7ae4;
+    border: none;
+}
+.botonBanner:hover{
+    border: 1px solid #fff;
+} */

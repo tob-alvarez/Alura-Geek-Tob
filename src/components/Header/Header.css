@@ -1,0 +1,35 @@
+.divLogo{
+    align-items: center;
+}
+.buscadorHeader{
+    width: 400px;
+    align-items: center;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #f5f5f5;
+    border-radius: 10px;
+}
+.inputBuscador{
+    width: 350px;
+    padding-left: 15px;
+    height: 45px;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background: transparent;
+}
+.botonLogin{
+    width: 120px !important;
+}
+
+.botonLogin a:hover{
+    border: 1px solid #2a7ae4;
+    color: #fff;
+    text-decoration: none;
+}
+@media screen and (max-width: 700px) {
+    .inputBuscador{
+        display: none !important;
+    }
+}

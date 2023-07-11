@@ -1,0 +1,16 @@
+.contenedor-productos{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.contenedor-productos a{
+    display: flex;
+    width: fit-content;
+    align-items: center;
+}
+.producto p{
+    margin: 0;
+}
+.producto a{
+    text-decoration: none;
+}

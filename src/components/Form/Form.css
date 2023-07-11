@@ -1,0 +1,35 @@
+
+.divLogo{
+    display: flex;
+    align-items: center;
+}
+.itemsInfo{
+    list-style: none;
+    padding: 0;
+}
+.contenedor-Form{
+    background-color:#EAF2FD;
+}
+.itemsInfo li{
+    padding-top: 10px;
+    border-bottom: 1px solid #eee;
+    text-align: center;
+}
+@media  screen and (max-width: 1024px) {
+    .contenedorInfo{
+        flex-direction: column;
+    }
+}
+@media  screen and (max-width: 768px) {
+    
+    .contenedor-Form{
+        flex-direction: column;
+        gap: 40px;
+        align-items: center;
+        justify-content: center;
+    }
+}
+.itemsInfo li{
+    cursor: pointer;
+    margin-left: 20px;
+}
