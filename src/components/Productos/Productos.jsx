@@ -16,10 +16,7 @@ const Productos = () => {
         </div>
         <div className="d-flex justify-content-between w-75 row">
           <div className="d-flex flex-column producto col-md-4 col-6 col-lg-2 col-xl-2">
-            <img
-              src="../../src/assets/imgProductos/unsplash_1VV1MRafd7A.png"
-              alt=""
-            />
+            <img src="https://i.imgur.com/p1HboHE.png" alt="" />
             <p>Producto XYC</p>
             <strong>
               <p>$60,00</p>
@@ -27,10 +24,7 @@ const Productos = () => {
             <Link to="/producto1">Ver producto</Link>
           </div>
           <div className="d-flex flex-column producto col-md-4 col-6 col-lg-2 col-xl-2">
-            <img
-              src="../../src/assets/imgProductos/unsplash_4OHkK555s1A.png"
-              alt=""
-            />
+            <img src="https://i.imgur.com/5rCc9em.png" alt="" />
             <p>Producto XYC</p>
             <strong>
               <p>$60,00</p>
@@ -38,10 +32,7 @@ const Productos = () => {
             <Link to="/producto1">Ver producto</Link>
           </div>
           <div className="d-flex flex-column producto col-md-4 col-6 col-lg-2 col-xl-2">
-            <img
-              src="../../src/assets/imgProductos/unsplash_6FDXGY9J6y4.png"
-              alt=""
-            />
+            <img src="https://i.imgur.com/hm5c7yL.png" alt="" />
             <p>Producto XYC</p>
             <strong>
               <p>$60,00</p>
@@ -49,10 +40,7 @@ const Productos = () => {
             <Link to="/producto1">Ver producto</Link>
           </div>
           <div className="d-flex flex-column producto col-md-4 col-6 col-lg-2 col-xl-2">
-            <img
-              src="../../src/assets/imgProductos/unsplash_epRFE_hBNjo.png"
-              alt=""
-            />
+            <img src="https://i.imgur.com/rn0fmpK.png" alt="" />
             <p>Producto XYC</p>
             <strong>
               <p>$60,00</p>
@@ -60,10 +48,7 @@ const Productos = () => {
             <Link to="/producto1">Ver producto</Link>
           </div>
           <div className="d-flex flex-column producto col-md-4 col-6 col-lg-2 col-xl-2">
-            <img
-              src="../../src/assets/imgProductos/unsplash_KeGToDVN0l4.png"
-              alt=""
-            />
+            <img src="https://i.imgur.com/hUV97DF.png" alt="" />
             <p>Producto XYC</p>
             <strong>
               <p>$60,00</p>
@@ -71,10 +56,7 @@ const Productos = () => {
             <Link to="/producto1">Ver producto</Link>
           </div>
           <div className="d-flex flex-column producto col-md-4 col-6 col-lg-2 col-xl-2">
-            <img
-              src="../../src/assets/imgProductos/unsplash_R8L1l9RN198.png"
-              alt=""
-            />
+            <img src="https://i.imgur.com/UOVSGbo.png" alt="" />
             <p>Producto XYC</p>
             <strong>
               <p>$60,00</p>

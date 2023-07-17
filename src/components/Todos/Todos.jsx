@@ -14,10 +14,7 @@ const Todos = () => {
         </div>
         <div className="d-flex justify-content-between w-75 row">
           <div className="d-flex flex-column producto col-md-4 col-6 col-lg-2 col-xl-2">
-            <img
-              src="../../src/assets/imgProductos/unsplash_1VV1MRafd7A.png"
-              alt=""
-            />
+            <img src="https://i.imgur.com/p1HboHE.png" alt="" />
             <p>Producto XYC</p>
             <strong>
               <p>$60,00</p>
@@ -25,10 +22,7 @@ const Todos = () => {
             <p className="mb-3">#1111</p>
           </div>
           <div className="d-flex flex-column producto col-md-4 col-6 col-lg-2 col-xl-2">
-            <img
-              src="../../src/assets/imgProductos/unsplash_4OHkK555s1A.png"
-              alt=""
-            />
+            <img src="https://i.imgur.com/5rCc9em.png" alt="" />
             <p>Producto XYC</p>
             <strong>
               <p>$60,00</p>
@@ -36,10 +30,7 @@ const Todos = () => {
             <p>#1111</p>
           </div>
           <div className="d-flex flex-column producto col-md-4 col-6 col-lg-2 col-xl-2">
-            <img
-              src="../../src/assets/imgProductos/unsplash_6FDXGY9J6y4.png"
-              alt=""
-            />
+            <img src="https://i.imgur.com/hm5c7yL.png" alt="" />
             <p>Producto XYC</p>
             <strong>
               <p>$60,00</p>
@@ -47,10 +38,7 @@ const Todos = () => {
             <p>#1111</p>
           </div>
           <div className="d-flex flex-column producto col-md-4 col-6 col-lg-2 col-xl-2">
-            <img
-              src="../../src/assets/imgProductos/unsplash_epRFE_hBNjo.png"
-              alt=""
-            />
+            <img src="https://i.imgur.com/rn0fmpK.png" alt="" />
             <p>Producto XYC</p>
             <strong>
               <p>$60,00</p>
@@ -58,10 +46,7 @@ const Todos = () => {
             <p>#1111</p>
           </div>
           <div className="d-flex flex-column producto col-md-4 col-6 col-lg-2 col-xl-2">
-            <img
-              src="../../src/assets/imgProductos/unsplash_KeGToDVN0l4.png"
-              alt=""
-            />
+            <img src="https://i.imgur.com/hUV97DF.png" alt="" />
             <p>Producto XYC</p>
             <strong>
               <p>$60,00</p>
@@ -69,10 +54,7 @@ const Todos = () => {
             <p>#1111</p>
           </div>
           <div className="d-flex flex-column producto col-md-4 col-6 col-lg-2 col-xl-2">
-            <img
-              src="../../src/assets/imgProductos/unsplash_R8L1l9RN198.png"
-              alt=""
-            />
+            <img src="https://i.imgur.com/UOVSGbo.png" alt="" />
             <p>Producto XYC</p>
             <strong>
               <p>$60,00</p>
@@ -82,10 +64,7 @@ const Todos = () => {
         </div>
         <div className="d-flex justify-content-between w-75 row">
           <div className="d-flex flex-column producto col-md-4 col-6 col-lg-2 col-xl-2">
-            <img
-              src="../../src/assets/imgProductos/unsplash_1VV1MRafd7A.png"
-              alt=""
-            />
+            <img src="https://i.imgur.com/CKDxcKY.png" alt="" />
             <p>Producto XYC</p>
             <strong>
               <p>$60,00</p>
@@ -93,10 +72,7 @@ const Todos = () => {
             <p>#1111</p>
           </div>
           <div className="d-flex flex-column producto col-md-4 col-6 col-lg-2 col-xl-2">
-            <img
-              src="../../src/assets/imgProductos/unsplash_4OHkK555s1A.png"
-              alt=""
-            />
+            <img src="https://i.imgur.com/FozJuu4.png" alt="" />
             <p>Producto XYC</p>
             <strong>
               <p>$60,00</p>
@@ -104,10 +80,7 @@ const Todos = () => {
             <p className="mb-3">#1111</p>
           </div>
           <div className="d-flex flex-column producto col-md-4 col-6 col-lg-2 col-xl-2">
-            <img
-              src="../../src/assets/imgProductos/unsplash_6FDXGY9J6y4.png"
-              alt=""
-            />
+            <img src="https://i.imgur.com/XYBJIa3.png" alt="" />
             <p>Producto XYC</p>
             <strong>
               <p>$60,00</p>
@@ -115,10 +88,7 @@ const Todos = () => {
             <p>#1111</p>
           </div>
           <div className="d-flex flex-column producto col-md-4 col-6 col-lg-2 col-xl-2">
-            <img
-              src="../../src/assets/imgProductos/unsplash_epRFE_hBNjo.png"
-              alt=""
-            />
+            <img src="https://i.imgur.com/kL4Wksw.png" alt="" />
             <p>Producto XYC</p>
             <strong>
               <p>$60,00</p>
@@ -126,10 +96,7 @@ const Todos = () => {
             <p>#1111</p>
           </div>
           <div className="d-flex flex-column producto col-md-4 col-6 col-lg-2 col-xl-2">
-            <img
-              src="../../src/assets/imgProductos/unsplash_KeGToDVN0l4.png"
-              alt=""
-            />
+            <img src="https://i.imgur.com/w24fdPr.png" alt="" />
             <p>Producto XYC</p>
             <strong>
               <p>$60,00</p>
@@ -137,10 +104,7 @@ const Todos = () => {
             <p>#1111</p>
           </div>
           <div className="d-flex flex-column producto col-md-4 col-6 col-lg-2 col-xl-2">
-            <img
-              src="../../src/assets/imgProductos/unsplash_R8L1l9RN198.png"
-              alt=""
-            />
+            <img src="https://i.imgur.com/NkmbpSN.png" alt="" />
             <p>Producto XYC</p>
             <strong>
               <p>$60,00</p>
@@ -150,10 +114,7 @@ const Todos = () => {
         </div>
         <div className="d-flex justify-content-between w-75 row">
           <div className="d-flex flex-column producto col-md-4 col-6 col-lg-2 col-xl-2">
-            <img
-              src="../../src/assets/imgProductos/unsplash_1VV1MRafd7A.png"
-              alt=""
-            />
+            <img src="https://i.imgur.com/GM6oLMT.png" alt="" />
             <p>Producto XYC</p>
             <strong>
               <p>$60,00</p>
@@ -161,10 +122,7 @@ const Todos = () => {
             <p>#1111</p>
           </div>
           <div className="d-flex flex-column producto col-md-4 col-6 col-lg-2 col-xl-2">
-            <img
-              src="../../src/assets/imgProductos/unsplash_4OHkK555s1A.png"
-              alt=""
-            />
+            <img src="https://i.imgur.com/OSNjDFM.png" alt="" />
             <p>Producto XYC</p>
             <strong>
               <p>$60,00</p>
@@ -172,10 +130,7 @@ const Todos = () => {
             <p>#1111</p>
           </div>
           <div className="d-flex flex-column producto col-md-4 col-6 col-lg-2 col-xl-2">
-            <img
-              src="../../src/assets/imgProductos/unsplash_6FDXGY9J6y4.png"
-              alt=""
-            />
+            <img src="https://i.imgur.com/gvDNcte.png" alt="" />
             <p>Producto XYC</p>
             <strong>
               <p>$60,00</p>
@@ -183,10 +138,7 @@ const Todos = () => {
             <p>#1111</p>
           </div>
           <div className="d-flex flex-column producto col-md-4 col-6 col-lg-2 col-xl-2">
-            <img
-              src="../../src/assets/imgProductos/unsplash_epRFE_hBNjo.png"
-              alt=""
-            />
+            <img src="https://i.imgur.com/wOLzl1P.png" alt="" />
             <p>Producto XYC</p>
             <strong>
               <p>$60,00</p>
@@ -194,10 +146,7 @@ const Todos = () => {
             <p>#1111</p>
           </div>
           <div className="d-flex flex-column producto col-md-4 col-6 col-lg-2 col-xl-2">
-            <img
-              src="../../src/assets/imgProductos/unsplash_KeGToDVN0l4.png"
-              alt=""
-            />
+            <img src="https://i.imgur.com/3AsAY5r.png" alt="" />
             <p>Producto XYC</p>
             <strong>
               <p>$60,00</p>
@@ -205,10 +154,7 @@ const Todos = () => {
             <p>#1111</p>
           </div>
           <div className="d-flex flex-column producto col-md-4 col-6 col-lg-2 col-xl-2">
-            <img
-              src="../../src/assets/imgProductos/unsplash_R8L1l9RN198.png"
-              alt=""
-            />
+            <img src="https://i.imgur.com/c1f4MZM.png" alt="" />
             <p>Producto XYC</p>
             <strong>
               <p>$60,00</p>

@@ -17,7 +17,7 @@ const ProductosConsola = () => {
         </div>
         <div className="d-flex justify-content-between w-75 row">
           <div className="d-flex flex-column producto col-md-4 col-6 col-lg-2 col-xl-2">
-            <img src="src\assets\imgConsolas\unsplash_0POwK6iAiRQ.png" alt="" />
+            <img src="https://i.imgur.com/gvDNcte.png" alt="" />
             <p>Producto XYC</p>
             <strong>
               <p>$60,00</p>
@@ -25,7 +25,7 @@ const ProductosConsola = () => {
             <a href="#">Ver Producto</a>
           </div>
           <div className="d-flex flex-column producto col-md-4 col-6 col-lg-2 col-xl-2">
-            <img src="src\assets\imgConsolas\unsplash_caNzzoxls8Q.png" alt="" />
+            <img src="https://i.imgur.com/wOLzl1P.png" alt="" />
             <p>Producto XYC</p>
             <strong>
               <p>$60,00</p>
@@ -33,7 +33,7 @@ const ProductosConsola = () => {
             <a href="#">Ver Producto</a>
           </div>
           <div className="d-flex flex-column producto col-md-4 col-6 col-lg-2 col-xl-2">
-            <img src="src\assets\imgConsolas\unsplash_k-xYhI3-gJM.png" alt="" />
+            <img src="https://i.imgur.com/c1f4MZM.png" alt="" />
             <p>Producto XYC</p>
             <strong>
               <p>$60,00</p>
@@ -41,7 +41,7 @@ const ProductosConsola = () => {
             <a href="#">Ver Producto</a>
           </div>
           <div className="d-flex flex-column producto col-md-4 col-6 col-lg-2 col-xl-2">
-            <img src="src\assets\imgConsolas\unsplash_wa5z9o9fgjw.png" alt="" />
+            <img src="https://i.imgur.com/GM6oLMT.png" alt="" />
             <p>Producto XYC</p>
             <strong>
               <p>$60,00</p>
@@ -49,7 +49,7 @@ const ProductosConsola = () => {
             <a href="#">Ver Producto</a>
           </div>
           <div className="d-flex flex-column producto col-md-4 col-6 col-lg-2 col-xl-2">
-            <img src="src\assets\imgConsolas\unsplash_Zjn4dT993-g.png" alt="" />
+            <img src="https://i.imgur.com/OSNjDFM.png" alt="" />
             <p>Producto XYC</p>
             <strong>
               <p>$60,00</p>
@@ -57,7 +57,7 @@ const ProductosConsola = () => {
             <a href="#">Ver Producto</a>
           </div>
           <div className="d-flex flex-column producto col-md-4 col-6 col-lg-2 col-xl-2">
-            <img src="src\assets\imgConsolas\unsplash_ZV7lnfyQLmA.png" alt="" />
+            <img src="https://i.imgur.com/3AsAY5r.png" alt="" />
             <p>Producto XYC</p>
             <strong>
               <p>$60,00</p>

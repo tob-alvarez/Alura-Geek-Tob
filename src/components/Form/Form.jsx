@@ -2,7 +2,7 @@ import "./Form.css";
 const Form = () => {
   return (
     <>
-      <div className="w-100 d-flex pt-5 pb-5 pt-5 mt-5 justify-content-around col-xl-12 contenedor-Form">
+      <div className="w-100 d-flex pb-5 pt-5 justify-content-around col-xl-12 contenedor-Form">
         <div className="d-flex col-xl-3 col-md-1">
           <div className="d-flex justify-content-between col-xl-12 contenedorInfo">
             <div className="divLogo">

@@ -1,0 +1,33 @@
+.fotoProducto{
+    width: fit-content;
+    height: 400px;
+    object-fit: contain;
+    margin-right: 20px;
+}
+.contenedor-producto{
+    justify-content: center;
+    align-items: center;
+}
+.precio{
+    font-size: 40px;
+}
+.descripcion-producto{
+    width: 80%;
+}
+@media screen and (max-width: 1280px) {
+    .fotoProducto{
+        height: 300px;
+    }
+}
+@media screen and (max-width: 1040px) {
+    .contenedor-producto-responsive{
+        flex-direction: column !important;
+        justify-content: center;
+        align-items: center;
+        text-align: left;
+    }
+    .fotoProducto{
+        height: 300px;
+        margin-bottom: 50px;
+    }
+}

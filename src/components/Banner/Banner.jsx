@@ -26,7 +26,7 @@ const Banner = () => {
         <div className="carousel-inner">
           <div className="carousel-item active">
             <img
-              src="src\assets\249ec3bb3cddfb099af8d5d3dac01246.jpg"
+              src="https://i.imgur.com/eHtKXKR.jpg"
               className="d-block w-100 banner"
               alt="..."
             />
@@ -39,7 +39,7 @@ const Banner = () => {
           </div>
           <div className="carousel-item">
             <img
-              src="src\assets\249ec3bb3cddfb099af8d5d3dac01246.jpg"
+              src="https://wallpaper.dog/large/978936.jpg"
               className="d-block w-100 banner"
               alt="..."
             />
@@ -52,14 +52,17 @@ const Banner = () => {
           </div>
           <div className="carousel-item">
             <img
-              src="src\assets\249ec3bb3cddfb099af8d5d3dac01246.jpg"
+              src="https://www.hdwallpapers.in/download/red_sus_among_us_4k_hd_games-1920x1080.jpg"
               className="d-block w-100 banner"
               alt="..."
             />
             <div className="carousel-caption d-none d-md-block">
-              <h2>Third slide label</h2>
+              <h2>Easter Egg</h2>
               <p>
-                Some representative placeholder content for the third slide.
+                Dejame una estrella en mi{" "}
+                <a href="https://github.com/tob-alvarez/Alura-Geek-Tob">
+                  repositorio
+                </a>
               </p>
             </div>
           </div>
